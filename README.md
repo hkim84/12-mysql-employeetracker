@@ -34,6 +34,5 @@ npm run test
 [Github](https://github.com/hkim84/12-mysql-employeetracker)
 
 ## Demo
-[video link]()[my sql employee tracker.webm](https://user-images.githubusercontent.com/112454703/208344647-0f4d09ca-6747-4052-a2dd-29a6f4cf53b5.webm)
-
+[video link](https://drive.google.com/file/d/1p1SfYiOgBQ_eRF4ZSH_OlpAPw6DEjr77/view)
 
