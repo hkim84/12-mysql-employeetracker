@@ -36,3 +36,8 @@ npm run test
 ## Demo
 [video link](https://drive.google.com/file/d/1p1SfYiOgBQ_eRF4ZSH_OlpAPw6DEjr77/view)
 
+
+
+
+[my sql employee tracker.webm](https://user-images.githubusercontent.com/112454703/208344947-9ca0094e-2c3b-4d00-bc90-9d45198e4f18.webm)
+
