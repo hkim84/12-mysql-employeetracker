@@ -2,6 +2,8 @@ const inquirer = require("inquirer");
 const db = require("./db");
 require("console.table");
 
+
+
 const exit = () => {
   console.log("Bye!");
   process.exit(0);
